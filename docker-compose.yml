@@ -3,6 +3,8 @@ services:
     container_name: Blocklist_Generator
     restart: unless-stopped
     build: .
+    environment:
+      - OutputPath=${OutputPath}
     volumes:
       - NAS:/NAS
 
