@@ -1,5 +1,20 @@
-# Collection of scripts for gathering and combining blocklists into 1 master list for use with pfBlockerNG
+Python script within a docker container to download a list of blocklists (Designed for ONLY domains, not hosts format however it should convert hosts format. Ignroes ABP format)
 
-pfBlockerNG is *really* slow when reloading lots of lists so this is my solution.
+# How to run
 
-Very not finished.
+Clone repo
+Modify app/blocklists.txt to add/remove lists.
+
+create .env file with the OutputPath variable.
+
+Example .env:
+
+```
+OutputPath=/path/to/output.txt
+```
+
+build and run the container
+
+`docker compose up -d`
+
+You can also modify the script (app/grab_lists.py) to run at a different time, currently it runs at 02:00 every day.

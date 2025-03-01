@@ -121,27 +121,3 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Lists/Ads
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
-
-# Easylist
-https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt
-https://easylist-downloads.adblockplus.org/Liste_AR.txt
-https://stanev.org/abp/adblock_bg.txt
-https://easylist-downloads.adblockplus.org/easylistchina.txt
-https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
-https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt
-https://easylist-downloads.adblockplus.org/easylistdutch.txt
-https://easylist-downloads.adblockplus.org/liste_fr.txt
-https://easylist.to/easylistgermany/easylistgermany.txt
-https://www.void.gr/kargig/void-gr-filters.txt
-https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt
-https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt
-https://easylist-downloads.adblockplus.org/easylistitaly.txt
-https://raw.githubusercontent.com/k2jp/abp-japanese-filters/master/abp_jp.txt
-https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
-https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
-https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt
-https://easylist-downloads.adblockplus.org/easylistportuguese.txt
-https://easylist-downloads.adblockplus.org/advblock.txt
-https://easylist-downloads.adblockplus.org/easylistspanish.txt
-https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
-https://easylist.to/easylist/easyprivacy.txt

@@ -3,10 +3,10 @@ services:
     container_name: Blocklist_Generator
     restart: unless-stopped
     build: .
-    environment:
-      - OutputPath=${OutputPath}
+    env_file: ".env"
     volumes:
       - NAS:/NAS
+      - /etc/localtime:/etc/localtime:ro
 
 volumes:
   NAS:
