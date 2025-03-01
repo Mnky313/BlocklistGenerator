@@ -1,0 +1,11 @@
+services:
+  blocklist:
+    container_name: Blocklist_Generator
+    restart: unless-stopped
+    build: .
+    volumes:
+      - NAS:/NAS
+
+volumes:
+  NAS:
+    external: true

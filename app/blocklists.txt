@@ -1,0 +1,147 @@
+# Hash is simply for readibility, only lines beginning with 'http' are added.
+
+# Sefinek
+https://blocklist.sefinek.net/generated/v1/noip/dating-services/sefinek.hosts.txt
+https://blocklist.sefinek.net/generated/v1/noip/dead-domains/jarelllama/dead-domains.fork.txt
+https://blocklist.sefinek.net/generated/v1/noip/malicious/sefinek.hosts1.txt
+https://blocklist.sefinek.net/generated/v1/noip/malicious/sefinek.hosts2.txt
+https://blocklist.sefinek.net/generated/v1/noip/useless-websites/jarelllama/parked-domains.fork.txt
+https://blocklist.sefinek.net/generated/v1/noip/scam/sefinek.hosts.txt
+https://blocklist.sefinek.net/generated/v1/noip/social/snapchat.txt
+https://blocklist.sefinek.net/generated/v1/noip/suspicious/sefinek.hosts.txt
+https://blocklist.sefinek.net/generated/v1/noip/social/tiktok.txt
+https://blocklist.sefinek.net/generated/v1/noip/tracking-and-telemetry/sefinek.hosts.txt
+https://blocklist.sefinek.net/generated/v1/noip/useless-websites/sefinek.hosts.txt
+
+# DeveloperDan
+https://blocklist.sefinek.net/generated/v1/noip/amp/developerdan/amp-hosts-extended.fork.txt
+https://blocklist.sefinek.net/generated/v1/noip/dating-services/developerdan/extended.fork.txt
+
+# BlockListProject
+https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/crypto-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/drugs-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/gambling-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/redirect-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/smart-tv-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/tiktok-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/vaping-nl.txt
+
+# Hagezi
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt
+
+# RPiLists
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung
+
+# Firebog Malicious
+https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+https://v.firebog.net/hosts/Prigent-Crypto.txt
+https://v.firebog.net/hosts/Prigent-Malware.txt
+https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
+https://urlhaus.abuse.ch/downloads/hostfile/
+
+# Firebog Trackers
+https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+https://v.firebog.net/hosts/Prigent-Ads.txt
+
+# Firebog ADs
+https://v.firebog.net/hosts/AdguardDNS.txt
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+
+# Firebog Sus
+https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
+https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts
+https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
+https://v.firebog.net/hosts/static/w3kbl.txt
+
+# Cryptojackers
+https://raw.githubusercontent.com/Hestat/minerchk/master/hostslist.txt
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/eth-phishing-detect/list.txt
+
+# Malicious
+https://threatfox.abuse.ch/downloads/hostfile/
+https://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt
+https://azorult-tracker.net/api/list/domain?format=plain
+https://www.botvrij.eu/data/ioclist.domain.raw
+https://cybercrime-tracker.net/all.php
+https://raw.githubusercontent.com/chainapsis/phishing-block-list/refs/heads/main/block-list.txt
+https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/refs/heads/main/scam-urls.txt
+https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt
+https://www.joewein.net/dl/bl/dom-bl-base.txt
+https://www.joewein.net/dl/bl/dom-bl.txt
+https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
+https://raw.githubusercontent.com/gwillem/magento-malware-scanner/master/rules/burner-domains.txt
+https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
+https://raw.githubusercontent.com/craiu/mobiletrackers/refs/heads/master/list.txt
+https://raw.githubusercontent.com/neodevpro/neodevhost/master/domain
+https://blocklist.sefinek.net/generated/v1/noip/extensions/oisd/big.fork.txt
+https://phishing.army/download/phishing_army_blocklist_extended.txt
+https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt
+https://hosts.ubuntu101.co.za/domains.list
+https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/refs/heads/master/generated/hosts
+https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
+
+# DNS over HTTPS
+https://raw.githubusercontent.com/bambenek/block-doh/master/doh-hosts.txt
+https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
+https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt
+
+# BBcan177
+https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw
+
+# ADs Basic
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+# ADs
+https://adaway.org/hosts.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Lists/Ads
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
+
+# Easylist
+https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt
+https://easylist-downloads.adblockplus.org/Liste_AR.txt
+https://stanev.org/abp/adblock_bg.txt
+https://easylist-downloads.adblockplus.org/easylistchina.txt
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt
+https://easylist-downloads.adblockplus.org/easylistdutch.txt
+https://easylist-downloads.adblockplus.org/liste_fr.txt
+https://easylist.to/easylistgermany/easylistgermany.txt
+https://www.void.gr/kargig/void-gr-filters.txt
+https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt
+https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt
+https://easylist-downloads.adblockplus.org/easylistitaly.txt
+https://raw.githubusercontent.com/k2jp/abp-japanese-filters/master/abp_jp.txt
+https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
+https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt
+https://easylist-downloads.adblockplus.org/easylistportuguese.txt
+https://easylist-downloads.adblockplus.org/advblock.txt
+https://easylist-downloads.adblockplus.org/easylistspanish.txt
+https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
+https://easylist.to/easylist/easyprivacy.txt
