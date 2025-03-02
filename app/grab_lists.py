@@ -14,7 +14,7 @@ def grab_blocklists():
 
         if response.ok:
             print(f"Downloaded {list}")
-            tmpURLs = [y.decode("utf-8").split(" ")[-1] for y in response.content.splitlines() if not y.decode("utf-8").startswith('#') and not y.decode("utf-8").startswith('|') and y.decode("utf-8").strip()]
+            tmpURLs = [y.decode("utf-8").split(" ")[-1].split("	")[-1].split("/")[0] for y in response.content.splitlines() if len(y.decode("utf-8")) > 0 and y.decode("utf-8")[0].isalpha() and y.decode("utf-8").strip()]
             URLs.update(tmpURLs)
         else:
             print(f"Error downloading list: {response.status_code}")
